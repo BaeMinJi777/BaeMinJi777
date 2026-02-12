@@ -1,6 +1,7 @@
 # 👋 Minbae | Frontend Developer
 
 <img width="1536" height="1024" alt="ChatGPT Image 2026년 2월 13일 오전 04_30_30" src="https://github.com/user-attachments/assets/526151f3-c2b8-4e95-ba7b-9970cd3b55dc" />
+
 안녕하세요, 프론트엔드 개발자 민배입니다.  
 저는 화면 구현에만 집중하기보다, **서비스 도메인을 이해하고 사용자 흐름을 설계하는 것**이 좋은 프론트엔드의 핵심이라고 생각합니다.  
 Next.js · TypeScript 기반으로 **읽기 쉬운 코드**, **예측 가능한 상태 관리**, **유지보수 가능한 UI 구조**를 지향합니다.
